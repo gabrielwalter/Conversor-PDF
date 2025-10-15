@@ -8,7 +8,7 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1t3F-eqZKwq9EVZ_tVO0NSOGGCwtc4M4r
 
-## Run Locally
+## Run Locally*
 
 **Prerequisites:**  Node.js
 
@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/1t3F-eqZKwq9EVZ_tVO0NSO
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+*.../Downloads/conversorpdf$ npm run dev   
