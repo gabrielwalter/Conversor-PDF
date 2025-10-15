@@ -1,0 +1,5 @@
+{
+  "name": "Conversor e compressor de imagens para PDF",
+  "description": "Uma aplicação web que permite aos usuários selecionar múltiplas imagens, reordená-las arrastando e soltando, e convertê-las em um único arquivo PDF.",
+  "requestFramePermissions": []
+}
